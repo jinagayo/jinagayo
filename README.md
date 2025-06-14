@@ -22,6 +22,7 @@
 <h2 class="code-line" data-line-start=18 data-line-end=19 >📂 프로젝트</h2>
 <ul>
 <li class="has-line-data" data-line-start="19" data-line-end="20"><a href="https://github.com/hxxdll/javaproject">자바 일정관리 프로젝트 &nbsp; Java Calendar System</a></li>
+<li class="has-line-data" data-line-start="20" data-line-end="21"><a href="https://github.com/jinagayo/web/tree/master/Rhythm_Game">리듬게임 &nbsp; Rhythm_Game</a></li>
 <li class="has-line-data" data-line-start="20" data-line-end="21"><a href="https://github.com/jinagayo/SeminProject">사범대 학사관리 시스템 &nbsp; College of Education LMS</a></li>
 </ul>
 <br>
