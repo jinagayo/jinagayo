@@ -25,11 +25,3 @@
 <li class="has-line-data" data-line-start="20" data-line-end="21"><a href="https://github.com/jinagayo/web/tree/master/Rhythm_Game">리듬게임 &nbsp; Rhythm_Game</a></li>
 <li class="has-line-data" data-line-start="20" data-line-end="21"><a href="https://github.com/jinagayo/SeminProject">사범대 학사관리 시스템 &nbsp; College of Education LMS</a></li>
 </ul>
-<br>
-<br>
-<h2 class="code-line" data-line-start=24 data-line-end=25 >certificates</h2>
-<ul>
-<li class="has-line-data" data-line-start="19" data-line-end="20">토익 TOEIC 865 &nbsp;(2024/10)</li>
-<li class="has-line-data" data-line-start="20" data-line-end="21">토익스피킹 Toeic Speaking - IH &nbsp;(2024/3)</li>
-<li class="has-line-data" data-line-start="20" data-line-end="21">정보처리기사 (실기시험 예정..) &nbsp;(2025/7)</li>
-</ul>
